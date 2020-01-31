@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "/home/csmajs/wbi002/Lab3/TopModule.xst" -ofn "/home/csmajs/wbi002/Lab3/TopModule.syr" 
+xst -intstyle ise -ifn "/home/csmajs/wbi002/Lab3/TopModule.xst" -ofn "/home/csmajs/wbi002/Lab3/TopModule.syr" 
+xst -intstyle ise -ifn "/home/csmajs/wbi002/Lab3/TopModule.xst" -ofn "/home/csmajs/wbi002/Lab3/TopModule.syr" 
+xst -intstyle ise -ifn "/home/csmajs/wbi002/Lab3/TopModule.xst" -ofn "/home/csmajs/wbi002/Lab3/TopModule.syr" 

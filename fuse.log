@@ -1,0 +1,11 @@
+Running: /opt/Xilinx/14.6/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o /home/csmajs/wbi002/Lab3/lab3_control_tb_isim_beh.exe -prj /home/csmajs/wbi002/Lab3/lab3_control_tb_beh.prj work.lab3_control_tb work.glbl 
+ISim P.68d (signature 0xfbc00daa)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "/home/csmajs/wbi002/Lab3/lab3_control_tb.v" into library work
+WARNING:HDLCompiler:568 - "/home/csmajs/wbi002/Lab3/lab3_control_tb.v" Line 67: Constant value is truncated to fit in <5> bits.
+Analyzing Verilog file "/opt/Xilinx/14.6/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+ERROR:HDLCompiler:1654 - "/home/csmajs/wbi002/Lab3/lab3_control_tb.v" Line 41: Instantiating <uut> from unknown module <control_unit>
+ERROR:Simulator:778 - Static elaboration of top level Verilog design unit(s) in library work failed
